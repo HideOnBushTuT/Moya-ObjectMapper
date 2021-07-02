@@ -35,3 +35,4 @@ Sample/Pods/
 # Carthage/Checkouts
 
 Carthage/Build
+.swiftpm/xcode/package.xcworkspace
